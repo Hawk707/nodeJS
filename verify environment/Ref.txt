@@ -1,0 +1,12 @@
+--To verify nodeJS is installed properly on windows, Create a js file named main.js on your machine (Windows or Linux) having the following code.
+
+/* Hello, World! program in node.js */
+console.log("Hello, World!")
+
+Now execute main.js file using Node.js interpreter to see the result:
+
+$ node main.js
+
+If everything is fine with your installation, this should produce the following result:
+
+Hello, World!
